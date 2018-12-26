@@ -11,12 +11,12 @@ A simple web user interface adapted to RSF for convience, especially for users u
 Before you are using this. Your framework should be a little modified. Somewhere like jsonify data return. (That's may broke the perfect classes which defined in RSF, and make your framework working **in unreliable**!)
 
 ### TODO:
-[x] Mapping Basic RSF shell command to web interface.
-[ ] Support more actions (statics charts etc.) on page.
-[ ] Make codes more readable and friendly.
-[ ] Support multi-user access with multi-threading.
-[ ] Optimize the test status monitor by using sqlite.
-[ ] Fully testing.
+[x] Mapping Basic RSF shell command to web interface.  
+[ ] Support more actions (statics charts etc.) on page.  
+[ ] Make codes more readable and friendly.  
+[ ] Support multi-user access with multi-threading.  
+[ ] Optimize the test status monitor by using sqlite.  
+[ ] Fully testing.  
 
 ### Requirement(s)
 
